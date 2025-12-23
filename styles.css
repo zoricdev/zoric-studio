@@ -76,7 +76,7 @@ html {
 }
 
 .status-text {
-    color: #6A7282;
+    color: rgba(0, 0, 0, 0.5);
     font-size: 14px;
 }
 
