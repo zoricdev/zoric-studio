@@ -252,7 +252,7 @@ html {
 
 /* Right small text */
 .selected-description {
-  max-width: 420px;
+  max-width: 520px;
   font-size: 18px;
   line-height: 1.6;
   color: rgba(0, 0, 0, 0.5);
